@@ -9,4 +9,5 @@ var sum2 int = x + int(y)
 
 func main() {
 	fmt.Println(sum1, sum2)
+	fmt.Println(sum3, sum4)
 }
